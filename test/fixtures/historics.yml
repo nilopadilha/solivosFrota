@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_date: 2018-07-24
+  event_desc: MyString
+  mileage: 1
+  valor: 9.99
+  nr_tribute_note: 1
+  client: one
+  vehicle: one
+  user_id: 1
+  note: MyText
+
+two:
+  event_date: 2018-07-24
+  event_desc: MyString
+  mileage: 1
+  valor: 9.99
+  nr_tribute_note: 1
+  client: two
+  vehicle: two
+  user_id: 1
+  note: MyText

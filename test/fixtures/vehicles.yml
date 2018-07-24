@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manufacturer: MyString
+  year: MyString
+  model: MyString
+  chassi: MyString
+  document: MyString
+  color: MyString
+  board: MyString
+  acquisition: 2018-07-24
+  cnh: 1
+  meleage_current: MyString
+  locadora: MyString
+  seguradora: MyString
+  dinvehicle: MyString
+  kind: 1
+  client: one
+  user: one
+  notes: MyText
+  status: 1
+
+two:
+  manufacturer: MyString
+  year: MyString
+  model: MyString
+  chassi: MyString
+  document: MyString
+  color: MyString
+  board: MyString
+  acquisition: 2018-07-24
+  cnh: 1
+  meleage_current: MyString
+  locadora: MyString
+  seguradora: MyString
+  dinvehicle: MyString
+  kind: 1
+  client: two
+  user: two
+  notes: MyText
+  status: 1

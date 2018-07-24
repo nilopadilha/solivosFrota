@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  motivate: MyString
+  meleageEstimated: MyString
+  reserve_date: 2018-07-24
+  client: one
+  vehicle: one
+  user_id: 1
+
+two:
+  motivate: MyString
+  meleageEstimated: MyString
+  reserve_date: 2018-07-24
+  client: two
+  vehicle: two
+  user_id: 1

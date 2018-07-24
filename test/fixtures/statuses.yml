@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  delivery_meleage: MyString
+  fuel: MyString
+  bodywork: MyString
+  tires: MyString
+  note: MyText
+  reserve: one
+  vehicle: one
+  user_id: 1
+
+two:
+  delivery_meleage: MyString
+  fuel: MyString
+  bodywork: MyString
+  tires: MyString
+  note: MyText
+  reserve: two
+  vehicle: two
+  user_id: 1

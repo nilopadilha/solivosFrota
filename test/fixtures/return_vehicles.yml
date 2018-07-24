@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  withdrawal_date: 2018-07-24
+  return_date: 2018-07-24
+  withdrawal_meleage: MyString
+  withdrawal_fuel: MyString
+  bodywork: MyString
+  tires: MyString
+  note: MyText
+  reserve: one
+  vehicle: one
+  workshop: one
+  status: one
+  user_id: 1
+
+two:
+  withdrawal_date: 2018-07-24
+  return_date: 2018-07-24
+  withdrawal_meleage: MyString
+  withdrawal_fuel: MyString
+  bodywork: MyString
+  tires: MyString
+  note: MyText
+  reserve: two
+  vehicle: two
+  workshop: two
+  status: two
+  user_id: 1

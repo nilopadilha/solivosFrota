@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  delivery: 2018-07-24
+  devolution: 2018-07-24
+  use_fds: 1
+  vehicle: one
+  cleint: one
+  user_id: 1
+
+two:
+  delivery: 2018-07-24
+  devolution: 2018-07-24
+  use_fds: 1
+  vehicle: two
+  cleint: two
+  user_id: 1
